@@ -7,3 +7,4 @@ function singleNum(arr) {
 }
 const finalResult = singleNum([4, 3, 2, 3, 4]);
 console.log(finalResult);
+ 
